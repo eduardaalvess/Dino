@@ -7,6 +7,6 @@ introdutórios importantes para programação na web como tags básicas de HTML,
 manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, 
 estilização e animações básicas com CSS.
 
-Example:
+Exemplo:
 
 <img src="https://github.com/eduardaalvess/Dino/blob/master/img/example.png">
